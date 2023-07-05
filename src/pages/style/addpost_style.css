@@ -1,0 +1,21 @@
+.add_post_form {
+  margin: 3rem auto;
+  padding: 4rem;
+  width: 31.25rem;
+}
+
+h1 {
+  font-weight: 900;
+  color: black;
+}
+
+.btn-primary {
+  margin-top: 2rem;
+  background: white;
+  border-color: lightseagreen;
+  color: lightseagreen;
+}
+.btn-primary:hover {
+  border-color: lightseagreen;
+  color: black;
+}
